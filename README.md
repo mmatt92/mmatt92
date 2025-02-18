@@ -1,11 +1,12 @@
 <h1>Hi, I'm Matt! </h1>
 
 <h2>👨‍💻 IT Projects:</h2>
-<p>* Powershell https://github.com/mmatt92/Powershell</p>
+<p>- Powershell https://github.com/mmatt92/Powershell</p>
 
-
+<h2>Certifications</h2>
+<p>-</p>
 <h2>📺 YouTube Videos</h2>
-<p>*</p>
+<p>-In progress</p>
 
 
 
