@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 <p>- Powershell https://github.com/mmatt92/Powershell</p>
 
-<h2>Certifications</h2>
+<h2>📄 Certifications</h2>
 <p>-</p>
 <h2>📺 YouTube Videos</h2>
 <p>-In progress</p>
