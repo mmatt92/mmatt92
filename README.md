@@ -1,7 +1,7 @@
 <h1>Hi, I'm Matt! </h1>
 
 <h2>👨‍💻 IT Projects:</h2>
-<p>- Powershell https://github.com/mmatt92/Powershell</p>
+<p>- </p>
 
 <h2>📄 Certifications</h2>
 <p>-</p>
