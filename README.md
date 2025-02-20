@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 <p>- Cisco Packet Tracer Download/Install https://github.com/mmatt92/Cisco-Packet-Tracer-Install </p>
+<p>- Cisco Packet Tracer Network Lab https://github.com/mmatt92/Cisco-Network-Lab </p>
 
 <h2>📄 Certifications</h2>
 <p>-</p>
