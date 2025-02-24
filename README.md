@@ -2,10 +2,11 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 <p>- Cisco Packet Tracer Download/Install https://github.com/mmatt92/Cisco-Packet-Tracer-Install </p>
-<p>- Cisco Packet Tracer Network Lab https://github.com/mmatt92/Cisco-Network-Lab </p>
+<p>- Cisco Packet Tracer Network Lab/Static Routing https://github.com/mmatt92/Cisco-Network-Lab </p>
 
 <h2>📄 Certifications</h2>
-<p>-</p>
+<p>-CompTIA A+</p>
+<p>-ITIL 4 Foundation Certificate in IT Service Management</p>
 <h2>📺 YouTube Videos</h2>
 <p>-In progress</p>
 
