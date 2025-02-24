@@ -1,13 +1,15 @@
-<h1>Hi, I'm Matt! </h1>
-
+<h1>Hi, I'm Matt! <br/>
+Aspiring IT and Cybersecurity Professional</h1>
 <h2>👨‍💻 IT Projects:</h2>
+<b>Networking</b>
+
 <p>- Cisco Packet Tracer Download/Install https://github.com/mmatt92/Cisco-Packet-Tracer-Install </p>
 <p>- Cisco Packet Tracer Network Lab/Static Routing https://github.com/mmatt92/Cisco-Network-Lab </p>
 
-<h2>📄 Certifications</h2>
+<h2>📄 Certifications:</h2>
 <p>- CompTIA A+</p>
 <p>- ITIL 4 Foundation Certificate in IT Service Management</p>
-<h2>📺 YouTube Videos</h2>
+<h2>📺 YouTube Videos:</h2>
 <p>-In progress</p>
 
 
