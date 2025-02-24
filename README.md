@@ -5,8 +5,8 @@
 <p>- Cisco Packet Tracer Network Lab/Static Routing https://github.com/mmatt92/Cisco-Network-Lab </p>
 
 <h2>📄 Certifications</h2>
-<p>-CompTIA A+</p>
-<p>-ITIL 4 Foundation Certificate in IT Service Management</p>
+<p>- CompTIA A+</p>
+<p>- ITIL 4 Foundation Certificate in IT Service Management</p>
 <h2>📺 YouTube Videos</h2>
 <p>-In progress</p>
 
