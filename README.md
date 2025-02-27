@@ -5,6 +5,7 @@ Aspiring IT and Cybersecurity Professional</h1>
 
 <p>- Cisco Packet Tracer Download/Install https://github.com/mmatt92/Cisco-Packet-Tracer-Install </p>
 <p>- Cisco Packet Tracer Network Lab/Static Routing https://github.com/mmatt92/Cisco-Network-Lab </p>
+<p>- Cisco Packet Tracer Network Lab/Dynamic Routing using RIP https://github.com/mmatt92/Cisco-Packet-Tracer-Lab-Dynamic-Routing-RIP </p>
 
 <h2>📄 Certifications:</h2>
 <p>- CompTIA A+</p>
