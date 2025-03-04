@@ -6,7 +6,7 @@ Aspiring IT and Cybersecurity Professional</h1>
 <p>- Cisco Packet Tracer Download/Install https://github.com/mmatt92/Cisco-Packet-Tracer-Install </p>
 <p>- Cisco Packet Tracer Network Lab/Static Routing https://github.com/mmatt92/Cisco-Network-Lab </p>
 <p>- Cisco Packet Tracer Network Lab/Dynamic Routing/RIP https://github.com/mmatt92/Cisco-Packet-Tracer-Lab-Dynamic-Routing-RIP </p>
-
+<p>- Cisco Packet Tracer Network Lab/Switch Configuration/VLAN https://github.com/mmatt92/Cisco-Packet-Tracer-Lab-Switch-Config-VLAN</p>
 <h2>📄 Certifications:</h2>
 <p>- CompTIA A+</p>
 <p>- ITIL 4 Foundation Certificate in IT Service Management</p>
